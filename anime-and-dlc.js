@@ -1,0 +1,12 @@
+const modalAnimeVideos = document.querySelector ('.modal-for-anime-videos'),
+buttonExitAnime = document.querySelector ('.button-exit-anime-video'),
+titleAnimeVideo = document.querySelector ('.title-for-video-anime'),
+videoAnimeChoice = document.querySelector ('.video-anime-choice'),
+animeOneVideo = document.querySelector ('.box-first-video-anime'),
+animeTwoVideo = document.querySelector ('.box-second-video-anime'),
+titleDlcVideo = document.querySelector ('.title-for-dlc-video'),
+videoDlcChoice = document.querySelector ('.video-for-dlc-content'),
+dlcOneVideo = document.querySelector ('.box-first-video-dlc'),
+dlcTwoVideo = document.querySelector ('.box-second-video-dlc'),
+modalDlcVideos = document.querySelector ('.modal-for-dlc-videos'),
+buttonExitDlc = document.querySelector ('.button-exit-modal-dlc');
